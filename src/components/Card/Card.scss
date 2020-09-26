@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 0 130px 0;
+
+    
+
+    p{
+        margin: 25px 0 15px 0;
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    span {
+        font-weight: bold;
+    }
+}

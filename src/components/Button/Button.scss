@@ -1,0 +1,13 @@
+.btn {
+    border: none;
+    background-color: transparent;
+    width: 200px;
+    height: 64px;
+    color: #fff;
+    background-color: #151c22;
+    cursor: pointer;
+
+    &:focus {
+        outline: none;
+    }
+}

@@ -1,0 +1,26 @@
+.footer {
+    background-color: #151c22;
+    color: #fff;
+    padding: 50px 0;
+
+    &__menu {
+        display: flex;
+        justify-content: center;
+        margin: 35px 0;
+        
+        li a{
+            color: #fff;
+            margin: 0 35px;
+        }
+    }
+
+    &__social {
+        display: flex;
+        justify-content: center;
+        
+        a {
+            color: #fff;
+            margin: 0 25px;
+        }
+    }
+}

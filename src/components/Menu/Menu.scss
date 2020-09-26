@@ -1,0 +1,21 @@
+.menu {
+    li {
+        margin-bottom: 35px;
+        line-height: 19px;
+    }
+    
+}
+
+.menu-row {
+    display: flex;
+
+    li{
+        margin-bottom: 0;
+        margin-right: 35px;
+    }
+
+    li:last-child {
+        margin-right: 0;
+    }
+    
+}
